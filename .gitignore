@@ -1,0 +1,6 @@
+# CMake
+out/
+
+# VS
+CMakeSettings.json
+.vs/
