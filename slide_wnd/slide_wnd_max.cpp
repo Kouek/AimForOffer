@@ -1,4 +1,4 @@
-#include "shared/all_stl.h"
+#include <shared/all_stl.h>
 
 /*URL:
  * https://leetcode.cn/problems/sliding-window-maximum/
@@ -33,4 +33,4 @@ class Solution {
     }
 };
 
-#include "shared/dummy_main.inl"
+#include <shared/dummy_main.inl>

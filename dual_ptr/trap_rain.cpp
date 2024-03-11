@@ -1,4 +1,4 @@
-#include "shared/all_stl.h"
+#include <shared/all_stl.h>
 
 /*URL:
  * https://leetcode.cn/problems/trapping-rain-water/
@@ -50,4 +50,4 @@ class Solution {
     }
 };
 
-#include "shared/dummy_main.inl"
+#include <shared/dummy_main.inl>

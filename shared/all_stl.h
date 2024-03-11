@@ -1,7 +1,9 @@
 #include <algorithm>
+#include <bit>
 #include <format>
 #include <functional>
 #include <iostream>
+#include <numeric>
 #include <source_location>
 #include <string>
 
@@ -11,6 +13,7 @@
 #include <map>
 #include <queue>
 #include <set>
+#include <stack>
 #include <unordered_map>
 #include <unordered_set>
 #include <vector>

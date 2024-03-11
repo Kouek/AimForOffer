@@ -1,7 +1,7 @@
-#include "shared/all_stl.h"
+#include <shared/all_stl.h>
 
 /*URL:
- * https://leetcode.cn/problems/longest-palindromic-substring/description/
+ * https://leetcode.cn/problems/longest-palindromic-substring/
  */
 
 class Solution {
@@ -71,4 +71,4 @@ class Solution {
     }
 };
 
-#include "shared/dummy_main.inl"
+#include <shared/dummy_main.inl>
